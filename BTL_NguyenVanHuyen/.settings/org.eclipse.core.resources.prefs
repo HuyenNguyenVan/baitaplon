@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/Nguyenvanhuyen/DAO/SanPhamDAO.java=UTF-8
+encoding//src/main/java/com/Nguyenvanhuyen/controller/APIcontroller.java=UTF-8
+encoding//src/main/java/com/Nguyenvanhuyen/controller/DangKyController.java=UTF-8
+encoding//src/main/java/com/Nguyenvanhuyen/controller/Dangnhap.java=UTF-8
+encoding//src/main/java/com/Nguyenvanhuyen/controller/GiohangController.java=UTF-8
+encoding//src/main/java/com/Nguyenvanhuyen/controller/Trangchu.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/chitiet.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/dangnhap.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/giohang.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/trangchu.jsp=UTF-8
+encoding//src/main/webapp/resources/Styles/styles.css=UTF-8
